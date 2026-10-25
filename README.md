@@ -1,2 +1,1 @@
-# aman-ullah
-#as1m khan
+this is my first repo
